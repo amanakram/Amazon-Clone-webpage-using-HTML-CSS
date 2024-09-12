@@ -1,2 +1,2 @@
-# HTML-CSS
+# Clone webpage  
 AMAZON CLONE PAGE USING HTML&CSS
